@@ -65,7 +65,6 @@
 			isa = PBXGroup;
 			children = (
 				89CBBD0E2ABEB47D001992D2 /* Extensions */,
-				890D61222ABD9204006AF1F7 /* Helpers */,
 				894D850A2ABE1E7C005FDBEA /* DetailPageViewController.swift */,
 				894D85162ABE1F79005FDBEA /* ViewController.swift */,
 				894D85082ABE1E49005FDBEA /* AppDelegate.swift */,
@@ -94,6 +93,7 @@
 		89CBBD0E2ABEB47D001992D2 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				890D61222ABD9204006AF1F7 /* Helpers */,
 				89CBBD102ABEB4A2001992D2 /* UIViewController+Extensions.swift */,
 			);
 			path = Extensions;
